@@ -304,6 +304,27 @@ header [data-nav] a{
 	margin:0 10px;
 	transition:color 1s
 }
+
+header [data-signinbutton]{
+	justify-self:center;
+	display:none
+}
+header [data-signinbutton] ul{
+	display:-webkit-flex;
+	display:-ms-flexbox;
+	display:flex;
+	-webkit-justify-content:space-between;
+	-ms-flex-pack:justify;
+	justify-content:space-between
+}
+header [data-signinbutton] a{
+	line-height:13px;
+	color:#fff;
+	text-decoration:none;
+	margin:100px 10px;
+	transition:color 1s
+}
+
 header [data-eyeball]{
 	width:65px;
 	justify-self:center
