@@ -126,7 +126,7 @@ table{
 }
 @font-face{
 	font-family:agrandir;
-	src:url(https://cash-f.squarecdn.com/static/fonts/agrandir/Agrandir-GrandHeavy.woff) format("woff2");
+	src:url(https://cdn.jsdelivr.net/gh/999ppp/bl/SegoeUI.woff2) format("woff2");
 	font-weight:500;
 	font-style:normal
 }
